@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # appnew
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CodeLens
+This contains the code for codelens app made for development side 
+>>>>>>> b2eb5bb70e13aa3fff7647d4351259d3002230e9
